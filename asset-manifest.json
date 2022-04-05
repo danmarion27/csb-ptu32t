@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://danmarion27.github.io/csb-ptu32t/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://danmarion27.github.io/csb-ptu32t/static/js/main.a6291ebd.chunk.js",
+    "main.js.map": "https://danmarion27.github.io/csb-ptu32t/static/js/main.a6291ebd.chunk.js.map",
+    "runtime-main.js": "https://danmarion27.github.io/csb-ptu32t/static/js/runtime-main.71b7e293.js",
+    "runtime-main.js.map": "https://danmarion27.github.io/csb-ptu32t/static/js/runtime-main.71b7e293.js.map",
+    "static/js/2.b21dc211.chunk.js": "https://danmarion27.github.io/csb-ptu32t/static/js/2.b21dc211.chunk.js",
+    "static/js/2.b21dc211.chunk.js.map": "https://danmarion27.github.io/csb-ptu32t/static/js/2.b21dc211.chunk.js.map",
+    "index.html": "https://danmarion27.github.io/csb-ptu32t/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://danmarion27.github.io/csb-ptu32t/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.b21dc211.chunk.js.LICENSE.txt": "https://danmarion27.github.io/csb-ptu32t/static/js/2.b21dc211.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71b7e293.js",
+    "static/js/2.b21dc211.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.a6291ebd.chunk.js"
+  ]
+}
